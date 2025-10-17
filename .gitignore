@@ -1,0 +1,16 @@
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.venv
+.DS_Store
+.vscode/
+*.pbix
+*.log
+*.tmp
+build/
+dist/
+*.egg-info/
+secrets.json
+*.bak

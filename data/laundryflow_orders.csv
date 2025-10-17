@@ -1,0 +1,3 @@
+customer_id,order_id,date_order,weight_kg,service_type,pickup_time,delivery_time,total_price,payment_status,satisfaction
+C0001,O00001,2025-09-10,6.5,Lavage & Repassage,2025-09-10 10:00,2025-09-10 15:00,18.5,Payé,5
+C0002,O00002,2025-09-10,3.0,Repassage seul,2025-09-10 11:30,2025-09-10 16:30,10.0,Payé,4

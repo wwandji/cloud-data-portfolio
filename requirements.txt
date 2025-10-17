@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+jupyter
+azure-storage-blob
+python-dotenv

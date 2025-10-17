@@ -1,0 +1,3 @@
+order_id,date,client_name,dish,quantity,price_per_unit,total_price,payment_type,location,satisfaction
+A00001,2025-09-12,Claudia N.,Ndolé Royal,2,15.0,30.0,Cash,Berlin,5
+A00002,2025-09-12,Joshua M.,Poisson braisé,1,18.0,18.0,PayPal,Potsdam,4
